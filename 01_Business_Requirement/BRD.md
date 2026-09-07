@@ -38,3 +38,42 @@ The underlying cause of these availability failures is currently unclear. Potent
 The purpose of this project is to identify the root causes of product unavailability and determine the most appropriate business action, such as replenishing inventory, transferring stock between locations, improving inventory allocation, or addressing data and technology issues.
 
 The analysis will also examine excess and slow-moving inventory to ensure that improving product availability does not unnecessarily increase inventory holding costs.
+
+## 3. Project Scope
+
+### 3.1 In Scope
+
+The project will analyze and improve NovaMart's inventory management across its omnichannel network, including:
+
+- Product availability and potential lost-sales events
+- Inventory levels across 3 regional warehouses, 10 physical stores, and 1 e-commerce fulfillment center
+- Inventory allocation between locations
+- Stock transfers between locations
+- Inventory replenishment and reorder decisions
+- Sales demand and product movement
+- Supplier lead time and delivery performance
+- Excess and slow-moving inventory
+- Inventory and fulfillment data quality issues
+- E-commerce product availability issues that directly affect order fulfillment
+- Business KPIs and dashboards for inventory decision-making
+
+### 3.2 Out of Scope
+
+The project will not cover:
+
+- Product pricing strategy
+- Marketing campaign performance
+- Customer segmentation or customer lifetime value
+- Full accounting and financial forecasting
+- Development of the actual e-commerce or inventory software
+- Physical warehouse automation or hardware implementation
+
+### 3.3 Scope Boundary
+
+The project focuses on **analyzing inventory-related business problems and recommending data-driven decisions**.
+
+The final solution will support decisions such as:
+
+> **Reorder → Transfer → Rebalance → Investigate**
+
+It will not automatically execute purchases, stock transfers, or system changes.
